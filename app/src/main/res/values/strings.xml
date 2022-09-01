@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="texto_boton_click">Click</string>
+    <string name="texto_titulo">Hola mundo sin saber que nos depara</string>
+    <string name="mensaje">Hola muergano</string>
+    <string name="texto_accion">Acción</string>
+
+</resources>
